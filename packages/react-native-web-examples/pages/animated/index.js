@@ -1,5 +1,12 @@
 import React from 'react';
-import { Animated, Pressable, StyleSheet, Text, View, useAnimatedValue } from 'react-native';
+import {
+  Animated,
+  Pressable,
+  StyleSheet,
+  Text,
+  View,
+  useAnimatedValue
+} from 'react-native';
 import Example from '../../shared/example';
 
 export default function AnimatedPage() {
